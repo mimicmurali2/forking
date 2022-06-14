@@ -7,7 +7,7 @@ public static void main(String[]args)
     {
         for(j=1;j<=4;j++)
         {
-        System.out.print("* ");
+        System.out.print("1 ");
         }
         System.out.println();
         
